@@ -8,5 +8,6 @@ public class TestResetController {
 
 	public static void main(String[] args) {
 		System.out.println("mp4");
+		System.out.println("bbb");
 	}
 }
