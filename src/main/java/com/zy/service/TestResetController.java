@@ -6,4 +6,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class TestResetController {
 
+	public static void main(String[] args) {
+		System.out.println("mp4");
+	}
 }
